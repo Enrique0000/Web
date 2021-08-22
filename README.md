@@ -1,2 +1,2 @@
 # Web
-Criação de um repositório utilizando html5 e css3
+Criação de um repositório utilizando html5, css3 e javaScript.
